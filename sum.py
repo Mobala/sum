@@ -1,0 +1,6 @@
+input1=input("enter a number")
+input2=input("enter a number")
+# in1=int(input1)
+# in2=int(input2)
+sum1=int(input1)+int(input2)
+print(sum1)
